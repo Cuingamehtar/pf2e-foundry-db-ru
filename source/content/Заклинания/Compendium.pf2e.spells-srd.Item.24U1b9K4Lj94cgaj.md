@@ -1,0 +1,8 @@
+---
+title: Магнитное отталкивание / Magnetic Repulsion
+---
+**Источник:** Pathfinder Rage of Elements
+
+- - -
+
+<p>Вы изменяете полярность своего магнитного поля, заставляя металлические объекты отскакивать от вас и подрагивать. Атаки металлическими объектами по вам получают штраф состояния −1, а квадраты рядом с вами становятся [[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.z68vgV2XWhi1KYEP#mestnostь]]{Сложной местностью} для существ носящих металлические доспехи. Для существ, сделанных полностью из металла, штраф бросков атаки становится −2, а квадраты рядом с вами становятся [[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.z68vgV2XWhi1KYEP#mestnostь]]{Особо сложной местностью}.</p><p>Когда это заклинание активно, вам, требуется дополнительное действие [[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]]{Взаимодействовать} перед использованием металлического объекта (в том числе для [[Compendium.pf2e.actionspf2e.Item.VjxZFuUXrCU94MWR]]{Удара} металлическим оружием), а если вы носите металлические доспехи, то вы также [[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]]{Замедлены 1}.</p><hr /><p><strong>Усиление (+3):</strong> Штраф состояния к броскам атаки увеличивается на 1.</p>

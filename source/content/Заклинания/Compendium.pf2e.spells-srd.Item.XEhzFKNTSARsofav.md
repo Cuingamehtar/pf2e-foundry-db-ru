@@ -1,0 +1,8 @@
+---
+title: Прогрессивная цинга / Advanced Scurvy
+---
+**Источник:** Pathfinder Adventure Path: Gatewalkers
+
+- - -
+
+<p>Ваше прикосновение заражает цель тяжелой формой цинги, — морским заболеванием, возникающим из-за неправильного питания. Симптомы цинги включают усталость, боль в суставах, шатание зубов и внутреннее кровотечение.</p><hr /><p><strong>Критический успех:</strong> Цель невредима.</p><p><strong>Успех:</strong> Цель [[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]]{Ослаблена 1} на 1 минуту.</p><p><strong>Провал:</strong> Цель заражается 1-й стадией прогрессивной цинги.</p><p><strong>Критический провал:</strong> Цель заражается 2-й стадией прогрессивной цинги.</p><p><strong>Прогрессивная цинга:</strong> (@Trait[Disease]{болезнь})</p><p><strong>Уровень:</strong> 4</p><p>на 1 день после употребления свежих фруктов существо получает бонус обстоятельства +2 к своему следующему спасброску против этого недуга</p><p><strong>Стадия 1:</strong> [[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]]{Ослаблен 1}, и урон, наносимый продолжительным кровотечением, увеличивается на 1 (1 день)</p><p><strong>Стадия 2:</strong> [[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]]{Ослаблен 1}, [[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]]{Утомление}, и урон, наносимый продолжительным кровотечением, увеличивается на 1d4 (2 дня)</p><p><strong>Стадия 3:</strong> [[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]]{Ослаблен 2}, [[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]]{Утомление}, и урон, наносимый продолжительным кровотечением, увеличивается на 1d6 (4 дня)</p>

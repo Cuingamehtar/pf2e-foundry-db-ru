@@ -1,0 +1,8 @@
+---
+title: Живительный маяк / Vital Beacon
+---
+**Источник:** Pathfinder Player Core
+
+- - -
+
+<p>От вас излучается жизненная сила, позволяя другим просить и получать исцеление. Один раз за раунд, вы или союзник можете [[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]]{Взаимодействовать}, чтобы просить и возложить на вас руки для восстановления Очков Здоровья. Каждый раз, когда маяк исцеляет кого-либо, он снижает свою силу. Он восстанавливает @Damage[(@item.rank)d10[healing,vitality]|shortLabel] ОЗ первому существу, @Damage[(@item.rank)d8[healing,vitality]|shortLabel] ОЗ второму, @Damage[(@item.rank)d6[healing,vitality]|shortLabel] ОЗ третьему, и @Damage[(@item.rank)d4[healing,vitality]|shortLabel] ОЗ четвертому, после этого заклинание заканчивается. Вы можете единовременно иметь только один активный <em>живительный маяк</em>.</p><p>[[Compendium.pf2e.spell-effects.Item.WWtSEJGwKY4bQpUn]]</p><hr /><p><strong>Усиление (+1):</strong> Маяк восстанавливает 1 дополнительную кость ОЗ каждый раз когда исцеляет, используя тот же размер кости что и остальные на этой стадии.</p>

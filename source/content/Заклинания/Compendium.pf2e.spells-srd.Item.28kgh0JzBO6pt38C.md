@@ -1,0 +1,8 @@
+---
+title: Фокусирующий гул / Focusing Hum
+---
+**Источник:** Pathfinder Dark Archive
+
+- - -
+
+<p>Вы наполняете воздух вокруг себя устойчивым гулом, который позволяет находящимся внутри существам не отвлекаться. В этой области, КС любой чистой проверки для [[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]]{Сотворения} заклинания существами с состоянием [[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]]{Одурманен} становится на 2 ниже. Существа с [[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]]{Замешательством} в этой области не атакуют никого, включая себя, и вместо этого теряют способность связно говорить. Вы получаете штраф −2 к проверкам Скрытности, чтобы [[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]]{Спрятаться} и [[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]]{Красться}.</p>

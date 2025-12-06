@@ -1,0 +1,8 @@
+---
+title: Ослепляющая ярость / Blinding Fury
+---
+**Источник:** Pathfinder Player Core 2
+
+- - -
+
+<p><strong>Триггер:</strong> Существо наносит вам урон</p><hr /><p>Вы проклинаете цель своим гневом от того, что на вас напали. Эффект зависит от спасброска Воли цели.</p><hr /><p><strong>Критический успех:</strong> Цель невредима.</p><p><strong>Успех:</strong> Цель не может @Condition[Observed]{заметить} вас до конца своего хода и если вы в данный момент [[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]]{Замечены} целью, то становитесь для нее [[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]]{Спрятанным}.</p><p><strong>Провал:</strong> Как успех, и на 1 минуту, каждый раз, когда цель наносит вам урон, она не может [[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]]{Заметить} вас до конца своего хода.</p><p><strong>Критический провал:</strong> Как успех, и на 1 минуту, каждый раз, когда цель наносит вам урон, она не может [[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]]{Заметить} вас до конца своего хода.</p>

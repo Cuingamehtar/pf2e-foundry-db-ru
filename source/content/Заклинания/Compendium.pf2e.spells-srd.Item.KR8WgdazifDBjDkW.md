@@ -1,0 +1,8 @@
+---
+title: Неожиданный доход / Unexpected Windfall
+---
+**Источник:** Pathfinder Lost Omens Shining Kingdoms
+
+- - -
+
+<p>Монеты, безделушки, вырезанные из тяжёлого камня, и другие громоздкие сокровища сыплются на врага. Цель должна совершить спасбросок Стойкости.</p><hr /><p><strong>Критический успех:</strong> Цель невредима.</p><p><strong>Успех:</strong> Цель [[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]]{Перегружена} на 1 раунд.</p><p><strong>Провал:</strong> Цель [[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]]{Перегружена} на всю продолжительность заклинания.</p><p><strong>Критический провал:</strong> Как провал, но дополнительный вес также сбивает цель [[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]]{Ничком}.</p>

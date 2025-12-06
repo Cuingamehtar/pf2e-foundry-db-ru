@@ -1,0 +1,8 @@
+---
+title: Духовное обновление / Spiritual Renewal
+---
+**Источник:** Pathfinder Lost Omens Shining Kingdoms
+
+- - -
+
+<p>Вы черпаете силу восстановления из окружающих вас духов. Цель получает быстрое исцеление 8.</p><hr /><p><strong>Усиление (+1):</strong> Быстрое исцеление увеличивается на 2.</p><p>[[Compendium.pf2e.spell-effects.Item.rtkSifnBQaf0TEPo]]</p>

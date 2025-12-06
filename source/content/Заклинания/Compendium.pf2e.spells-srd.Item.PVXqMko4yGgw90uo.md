@@ -1,0 +1,8 @@
+---
+title: Заветное желание / Heart's Desire
+---
+**Источник:** Pathfinder Advanced Player's Guide
+
+- - -
+
+<p>Вы окружаете свою цель изумительными иллюзиями их величайших желаний, которые отвлекают их от реальности. Цель должна совершить спасбросок Воли.</p><hr /><p><strong>Критический успех:</strong> Цель не верит в иллюзию и невредимо.</p><p><strong>Успех:</strong> На 1 раунд, цель [[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]]{Одурманена 2} и имеет штраф состояния −2 к любым проверкам, которые она совершает для определения эффектов реакций.</p><p><strong>Провал:</strong> На 1 минуту, цель [[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]]{Одурманена 2} и не может использовать реакции.</p><p><strong>Критический провал:</strong> Как провал, и все пространства являются для цели [[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.z68vgV2XWhi1KYEP#mestnostь]]{Сложной местностью}.</p><hr /><p><strong>Усиление (+2):</strong> Вы можете выбрать целью 1 дополнительное существо.</p>

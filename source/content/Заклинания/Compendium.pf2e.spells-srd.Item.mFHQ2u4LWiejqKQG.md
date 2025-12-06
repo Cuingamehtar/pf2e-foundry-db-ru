@@ -1,0 +1,8 @@
+---
+title: Переедание / Overstuff
+---
+**Источник:** Pathfinder Player Core
+
+- - -
+
+<p>Огромное количество еды и питья наполняет цель. Она получает еды достаточно для целого приема пиши и должно совершить спасбросок Стойкости. Цель, испытывающая [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошноту} от этого заклинания, получает штраф состояния −10 футов к Скорости пока не перестанет испытывать это состояние.</p><hr /><p><strong>Критический успех:</strong> Цель невредима.</p><p><strong>Успех:</strong> Цель испытывает [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошноту 1}, но если она тратит действие на завершение состояния, то оно автоматически проходит.</p><p><strong>Провал:</strong> Цель испытывает [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошноту 1}.</p><p><strong>Критический провал:</strong> Цель испытывает [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошноту 2}.</p>

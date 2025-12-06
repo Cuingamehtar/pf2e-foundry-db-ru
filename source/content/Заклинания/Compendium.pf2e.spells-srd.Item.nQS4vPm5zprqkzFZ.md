@@ -1,0 +1,8 @@
+---
+title: Проклятье смерти / Curse of Death
+---
+**Источник:** Pathfinder Player Core
+
+- - -
+
+<p>Вы фокусируете свой злобный взгляд на цели, заставляя ее сердце сжиматься от ужаса. Цель должна совершить спасбросок Стойкости. Независимо от результата, цель временно иммунна к дальнейшему наложению <em>проклятья смерти</em> на 1 день.</p><hr /><p><strong>Критический успех:</strong> Цель невредима.</p><p><strong>Успех:</strong> Цель подвергается 1-й стадией <em>проклятью смерти</em>, и стадия не может увеличиться дальше 1-й.</p><p><strong>Провал:</strong> Цель подвергается 1-й стадии <em>проклятья смерти</em>.</p><p><strong>Критический провал:</strong> Цель подвергается <em>проклятью смерти</em> 2-й стадии.</p><hr /><p><strong>Проклятье смерти:</strong> (@Trait[Curse]{проклятие}, @Trait[Void]{пустота}, @Trait[Death]{смерть}) Проклятье заканчивается, когда завершается заклинание</p><p><strong>Стадия 1:</strong> @Damage[(max(4,(@item.rank)-1))d6[void]] и состояние [[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]] (1 раунд)</p><p><strong>Стадия 2:</strong> @Damage[(max(8,@item.rank+3))d6[void]] и состояние [[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]] (1 раунд)</p><p><strong>Стадия 3:</strong> @Damage[(max(12,@item.rank+7))d6[void]] и состояние [[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]] (1 раунд)</p><p><strong>Стадия 4:</strong> смерть</p><hr /><p><strong>Усиление (+1):</strong> Урон пустотой при успехе и во время первых 3-х стадий увеличивается на 1d6.</p>

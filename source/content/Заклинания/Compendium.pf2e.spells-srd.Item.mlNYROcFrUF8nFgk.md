@@ -1,0 +1,8 @@
+---
+title: Россыпь звёзд / Spray of Stars
+---
+**Источник:** Pathfinder Player Core 2
+
+- - -
+
+<p>Вы швыряете россыпь крошечных падающих звёзд, нанося 2d4 урона огнём. Каждое существо в области должно совершить спасбросок Рефлекса.</p><hr /><p><strong>Критический успех:</strong> Существо невредимо.</p><p><strong>Успех:</strong> Существо получает половину урона и [[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]]{Ослеплено} на 1 раунд.</p><p><strong>Провал:</strong> Существо получает полный урон и [[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]]{Ослеплено} на 3 раунда.</p><p><strong>Критический провал:</strong> Существо получает двойной урон и [[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]]{Ослеплено} на 1 минуту.</p><hr /><p><strong>Усиление (+1):</strong> Урон увеличивается на 1d4.</p>

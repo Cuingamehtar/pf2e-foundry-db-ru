@@ -1,0 +1,8 @@
+---
+title: Ясный ум / Clear Mind
+---
+**Источник:** Pathfinder Player Core
+
+- - -
+
+<p>Вы изгоняете ментальную скверну из разума цели. Совершите попытку [[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.E4Q7EiSG18sIvFwg]]{Противодействия} выбранному вами эффекту, накладывающему на цель одно из следующих состояний: [[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]]{Бегство}, [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Испуг} или [[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]]{Одурманивание}. Если вы не смогли противодействовать эффекту, но смогли бы, если бы его ранг противодействия был на 2 ниже, вместо этого подавите эффект до начала вашего следующего хода. Пока эффект подавлен, время его действия не уменьшается. Это заклинание не может противодействовать или подавлять состояния, которые являются частью проклятий, болезней или естественного состояния цели.</p><hr /><p><strong>Усиление (4-й):</strong> Добавьте [[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]]{Замешательство}, [[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]]{Под контролем} и [[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]]{Замедление} в список состояний.</p><p><strong>Усиление (6-й):</strong> Добавьте [[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]]{Обреченность} в список состояний.</p><p><strong>Усиление (8-й):</strong> Добавьте [[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]]{Ошеломление} в список состояний.</p>

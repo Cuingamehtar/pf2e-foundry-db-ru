@@ -1,0 +1,8 @@
+---
+title: Переполняющее воспоминание / Overwhelming Memory
+---
+**Источник:** Pathfinder Lost Omens Rival Academies
+
+- - -
+
+<p>Вы заставляете цель вспомнить определенный тип воспоминаний, выбранный вами из списка ниже, выводя его на передний план её сознания с идеальной ясностью.</p><ul><li><strong>Весёлое:</strong> Воспоминание заставляет цель неудержимо смеяться. Оно не может использовать реакции.</li><li><strong>Романтичное:</strong> Существо поглощено своей любовью к другому. Оно [[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]]{Заворожено} памятью.</li><li><strong>Трагичное:</strong> Существо переполнено печалью. Оно [[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]]{Ослеплено} слезами на глазах.</li><li><strong>Ужасающее:</strong> Существо наполнено ужасом и [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугано 1}.</li></ul><p>Цель должна совершить спасбросок Воли.</p><hr /><p><strong>Критический успех:</strong> Цель невредима.</p><p><strong>Успех:</strong> Цель находится под воздействием воспоминания до начала вашего следующего хода.</p><p><strong>Провал:</strong> Цель находится под воздействием воспоминания до начала вашего следующего хода и [[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]]{Одурманена 2} на время действия заклинания.</p><p><strong>Критический провал:</strong> Как провал, но цель [[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]]{Одурманена 3} на время действия заклинания.</p>

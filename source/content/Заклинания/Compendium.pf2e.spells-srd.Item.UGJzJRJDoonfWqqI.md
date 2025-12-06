@@ -1,0 +1,8 @@
+---
+title: Атлетическое стремление / Athletic Rush
+---
+**Источник:** Pathfinder Player Core
+
+- - -
+
+<p>Ваше тело наполняется физической силой и умением. Вы получаете бонус состояния +10 футов к Скорости и бонус состояния +2 к проверкам Атлетики. Как часть [[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]]{Сотворения} этого заклинания вы можете применить [[Compendium.pf2e.actionspf2e.Item.Bcxarzksqt9ezrs6]]{Перемещение}, [[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]]{Прыжок}, [[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]]{Карабкаться} или [[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]]{Плыть}. Бонусы заклинания применяются во время этого действия.<br/>[[Compendium.pf2e.spell-effects.Item.57lnrCzGUcNUBP2O]]</p>

@@ -1,0 +1,8 @@
+---
+title: Защита / Protection
+---
+**Источник:** Pathfinder Player Core
+
+- - -
+
+<p>Вы защищаете существо от вреда. Цель получает бонус состояния +1 к КБ и спасброскам.</p><hr /><p><strong>Усиление (3-й):</strong> Вы можете выбрать, чтобы преимущества этого заклинания повлияли на всех ваших союзниках в @Template[emanation|distance:10]{10-футовой эманации} вокруг цели.</p><p>[[Compendium.pf2e.spell-effects.Item.RawLEPwyT5CtCZ4D]]</p>

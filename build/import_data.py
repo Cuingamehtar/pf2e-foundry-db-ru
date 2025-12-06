@@ -2,6 +2,7 @@ import zipfile
 import json
 import os
 import shutil
+import re
 
 def parse_json(file: str):
     with open(file, "r") as f:
@@ -39,9 +40,16 @@ if __name__ == "__main__":
     clear_folder("./source/content/Заклинания")
 
     for spell in spells_source:
+        uuid = "Compendium.pf2e.spells-srd.Item."+spell["_id"]
         t = spells_translate[spell["name"]]
         t["name"] = t["name"].replace("(*)", "")
-        with open("./source/content/Заклинания/" + t["name"] +".md", "w") as f:
+        if "description" in t:
+            t["description"] = re.sub(r"@UUID\[([^\]]+)\]", r"[[\1]]", t["description"])
+        else:
+            print(t["name"])
+        with open("./source/content/Заклинания/" + uuid +".md", "w") as f:
+            f.write("---\ntitle: "+ t["name"] + " / " + spell["name"] + "\n---\n")
+
             f.write("**Источник:** " + spell["system"]["publication"]["title"] + "\n\n")
 
             f.write("- - -\n\n")
@@ -49,4 +57,4 @@ if __name__ == "__main__":
             try:
                 f.write(t["description"])
             except:
-                print(t)
+                pass

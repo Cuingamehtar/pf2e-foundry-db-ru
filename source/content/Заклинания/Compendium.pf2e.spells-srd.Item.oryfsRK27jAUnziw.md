@@ -1,0 +1,8 @@
+---
+title: Жало импа / Imp Sting
+---
+**Источник:** Pathfinder #160: Assault on Hunting Lodge Seven
+
+- - -
+
+<p>Вы воспроизводите злобное, ядовитое жало импа, нанося удар по врагу и, возможно, заражая его омерзительным ядом дьявола. Вы наносите цели, которой касаетесь, 1d4 колющего урона и заражаете ядом импа. Если цель получает колющий урон, оно также получает @Damage[1d6[spirit]] и должна совершить спасбросок Стойкости.</p><hr /><p><strong>Критический успех:</strong> Цель невредима.</p><p><strong>Успех:</strong> Цель получает @Damage[1d6[poison]].</p><p><strong>Провал:</strong> Цель заражается 1-й стадией яда импа.</p><p><strong>Критический провал:</strong> Цель заражается 2-й стадией яда импа.</p><hr /><p><strong>Яд импа:</strong> (@Trait[Poison]{яд}) <strong>Уровень 3</strong></p><p><strong>Макс.продолжительность:</strong> 6 раундов</p><p><strong>Стадия 1:</strong> @Damage[1d6[poison]] и [[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]]{Неуклюжесть 1}</p><p><strong>Стадия 2:</strong> @Damage[1d6[poison]], [[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]]{Неуклюжесть 1} и [[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]]{Замедлен 1} (1 раунд).</p>

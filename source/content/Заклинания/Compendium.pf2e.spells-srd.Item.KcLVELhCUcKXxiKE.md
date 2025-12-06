@@ -1,0 +1,8 @@
+---
+title: Попутный ветер / Tailwind
+---
+**Источник:** Pathfinder Player Core
+
+- - -
+
+<p>Ветер в спину подталкивает вас к новым горизонтам. Вы получаете бонус состояния +10 к своей Скорости.</p><p>[[Compendium.pf2e.spell-effects.Item.PQHP7Oph3BQX1GhF]]</p><hr /><p><strong>Усиление (2-й):</strong> Продолжительность увеличивается до 8 часов.</p><p>[[Compendium.pf2e.spell-effects.Item.7vIUF5zbvHzVcJA0]]</p>

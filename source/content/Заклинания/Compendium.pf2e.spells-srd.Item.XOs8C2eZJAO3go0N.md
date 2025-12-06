@@ -1,0 +1,8 @@
+---
+title: Earth and Sky / Earth and Sky
+---
+**Источник:** Pathfinder Lost Omens Draconic Codex
+
+- - -
+
+<p>You erupt into the air with the force of a dragon taking flight, launching nearby creatures into the sky with you. This spell has no effect unless you're on solid ground when you cast it. You fly directly upward, up to 100 feet into the air. When the spell ends, you safely float to the ground, as gentle landing. Every other creature in the area when you Cast this Spell must attempt a Fortitude saving throw.</p><hr /><p><strong>Критический успех:</strong> Существо невредимо.</p><p><strong>Успех:</strong> The creature is launched the same distance into the air as you, then falls.</p><p><strong>Провал:</strong> The creature is launched the same distance into the air as you, then falls and can't [[Compendium.pf2e.actionspf2e.Item.qm7xptMSozAinnPS]]{Arrest its Fall}.</p><p><strong>Критический провал:</strong> As failure, but the creature takes twice as much damage from falling.</p>

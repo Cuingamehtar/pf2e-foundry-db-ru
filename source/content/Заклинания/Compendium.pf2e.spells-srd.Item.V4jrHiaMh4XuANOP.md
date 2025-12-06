@@ -1,0 +1,8 @@
+---
+title: Микологический недуг / Mycological Malady
+---
+**Источник:** Pathfinder Howl of the Wild
+
+- - -
+
+<p>Вы заражаете цель грибковыми спорами, чтобы ускорить цикл разложения. Цель должна совершить спасбросок Стойкости. Нежить, которая не является бесплотной, например скелеты и зомби, не имеет обычного иммунитета к этой болезни, так как споры всё ещё могут поселиться в остатках их плоти и костей. По усмотрению Мастера, это может распространяться и на других неживых существ, состоящих из органического материала.</p><hr /><p><strong>Критический успех:</strong> Цель невредима.</p><p><strong>Успех:</strong> Цель прорастает грибами и [[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]]{Ослаблена 2} на 1 раунд.</p><p><strong>Провал:</strong> Цель заражается 1-й стадией спор пустотной поганки.</p><p><strong>Критический провал:</strong> Цель заражается 2-й стадией спор пустотной поганки.</p><hr /><p><strong>Споры пустотной поганки (@Trait[Disease]{болезнь}):</strong> Болезнь заканчивается когда заканчивается заклинание</p><p><strong>Стадия 1:</strong> [[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]]{Ослаблен 2} (1 раунд)</p><p><strong>Стадия 2:</strong> [[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]]{Ослаблен 2} и [[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]]{Замедлен 1} (1 раунд)</p><p><strong>Стадия 3:</strong> [[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]]{Ослаблен 2}, [[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]]{Замедлен 1} и [[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]]{Одурманен 2} (1 раунд)</p>

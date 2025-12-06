@@ -1,0 +1,8 @@
+---
+title: Ночное зрение / Darkvision
+---
+**Источник:** Pathfinder Player Core
+
+- - -
+
+<p>Вы даёте себе сверхъестественное зрение в темных областях. Вы получаете [[Compendium.pf2e.bestiary-ability-glossary-srd.Item.qCCLZhnp2HhP3Ex6]].</p><p>[[Compendium.pf2e.spell-effects.Item.IXS15IQXYCZ8vsmX]]</p><p>[[Compendium.pf2e.spell-effects.Item.inNfTmtWpsxeGBI9]]</p><hr /><p><strong>Усиление (3-й):</strong> Дальность заклинания — касание, а цели — 1 готовое существо.</p><p><strong>Усиление (5-й):</strong> Дальность заклинания — касание, а цели — 1 готовое существо. Продолжительность становится до ваших следующих ежедневных приготовлений.</p>

@@ -1,0 +1,8 @@
+---
+title: Синаптический импульс / Synaptic Pulse
+---
+**Источник:** Pathfinder Player Core
+
+- - -
+
+<p>Вы испускаете пульсирующий ментальный взрыв, который проникает в разумы всех врагов в области. Каждый противник в области должен совершить спасбросок Воли.</p><hr /><p><strong>Критический успех:</strong> Существо невредимо.</p><p><strong>Успех:</strong> Существо [[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]]{Ошеломлено 1}.</p><p><strong>Провал:</strong> Существо [[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]]{Ошеломлено 2}.</p><p><strong>Критический провал:</strong> Существо [[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]]{Ошеломлено} на 1 раунд.</p>

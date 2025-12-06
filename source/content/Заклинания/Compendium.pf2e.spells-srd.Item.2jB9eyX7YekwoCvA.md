@@ -1,0 +1,8 @@
+---
+title: Слово свободы / Word of Freedom
+---
+**Источник:** Pathfinder Player Core
+
+- - -
+
+<p>Вы произносите освобождающее слово силы, которое освобождает существо. Вы подавляете одно из следующих состояний на свой выбор: [[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]]{Замешательство}, [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напуган}, [[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]]{Схвачен}, [[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]]{Сдерживаем} или [[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]]{Парализован}. Выбранное состояние не влияет на цель, и если вы подавляете состояние @Condition[Grabbed]{схвачен} или @Condition[Restrained]{сдерживаем}, то цель автоматически освобождается от состояний @Condition[Grabbed]{схвачен} и @Condition[Restrained]{сдерживаем}, действующих на нее, когда вы [[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]]{Сотворяете} это заклинание.</p><p>Если вы не убираете эффект, который дает состояние, то это состояние возвращается после завершения заклинания. Например, если заклинание давало цели состояние @Condition[Confused]{замешательство} на 1 минуту, <em>слово свободы</em> позволит цели действовать нормально на 1 раунд, но после этого состояние @Condition[Confused]{замешательство} вернется.</p>

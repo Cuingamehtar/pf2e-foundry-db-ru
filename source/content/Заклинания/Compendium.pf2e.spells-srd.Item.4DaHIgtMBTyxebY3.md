@@ -1,0 +1,8 @@
+---
+title: Помыкающая плеть / Commanding Lash
+---
+**Источник:** Pathfinder Player Core
+
+- - -
+
+<p>Угрожая еще большей болью, вы подчиняете существо, которому недавно причинили вред. Вы отдаете цели приказ, с эффектами заклинания [[Compendium.pf2e.spells-srd.Item.aIHY2DArKFweIrpf]]. Если цель [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугана}, [[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]]{Одурманена}, или получает продолжительный урон, она получает штраф обстоятельства −2 к спасброску. Независимо от результата, цель временно иммунна на 1 час.</p>
