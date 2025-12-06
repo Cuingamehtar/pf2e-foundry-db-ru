@@ -1,11 +1,18 @@
-# Quartz notebook
+# Quartz v4
 
-To run locally, run npm install then:
+> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-```
-npx quartz build --serve
-```
+Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
 
-Otherwise, just push to GitHub and CI will build & deploy the HTML.
+🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
-Forked from: https://github.com/jackyzha0/quartz
+[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+
+## Sponsors
+
+<p align="center">
+  <a href="https://github.com/sponsors/jackyzha0">
+    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
+  </a>
+</p>
