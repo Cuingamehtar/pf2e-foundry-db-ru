@@ -1,5 +1,7 @@
 import zipfile
 import json
+import os
+import shutil
 
 def parse_json(file: str):
     with open(file, "r") as f:
@@ -12,6 +14,21 @@ def open_zip(file:str, inner_path:str):
             data = json.load(f)
     return data
 
+def clear_folder(directory_path:str):
+    if not os.path.exists(directory_path):
+        print(f"Directory '{directory_path}' does not exist.")
+        return
+
+    for item in os.listdir(directory_path):
+        item_path = os.path.join(directory_path, item)
+        try:
+            if os.path.isfile(item_path) or os.path.islink(item_path):
+                os.unlink(item_path)  # Remove file or symbolic link
+            elif os.path.isdir(item_path):
+                shutil.rmtree(item_path)  # Remove subdirectory and its contents
+        except OSError as e:
+            print(f"Error removing {item_path}: {e}")
+
 
 if __name__ == "__main__":
     path_zip = "F:/Foundry VTT/dev/pf2e-ru-proto/temp/json-assets.zip"
@@ -19,8 +36,17 @@ if __name__ == "__main__":
     spells_source = open_zip(path_zip, "packs/spells.json")
     spells_translate = parse_json(path_translation)["entries"]
 
+    clear_folder("./source/content/Заклинания")
+
     for spell in spells_source:
-        content = spells_translate[spell["name"]]
-        name = content["name"].replace("(*)", "")
-        with open("./source/content/Заклинания/" + name +".md", "w") as f:
-            f.write(content["description"])
+        t = spells_translate[spell["name"]]
+        t["name"] = t["name"].replace("(*)", "")
+        with open("./source/content/Заклинания/" + t["name"] +".md", "w") as f:
+            f.write("**Источник:** " + spell["system"]["publication"]["title"] + "\n\n")
+
+            f.write("- - -\n\n")
+
+            try:
+                f.write(t["description"])
+            except:
+                print(t)
