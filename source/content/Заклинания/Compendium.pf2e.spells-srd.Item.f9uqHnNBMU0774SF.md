@@ -5,4 +5,10 @@ title: Стихийное предательство / Elemental Betrayal
 
 - - -
 
-<p>Ваш покровитель использует свое превосходное владение стихиями, давая им силу, чтобы расправиться с вашим врагом. Когда вы [[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]]{Сотворяете} это заклинание, выберите @Trait[Water]{воду}, @Trait[Air]{воздух}, @Trait[Wood]{дерево}, @Trait[Earth]{землю}, @Trait[Metal]{металл} или @Trait[Fire]{огонь}. Цель получает слабость 2 к выбранному признаку.</p><p>[[Compendium.pf2e.spell-effects.Item.y4y0nusC97R7ZDL5]]</p><hr /><p><strong>Усиление (+2):</strong> Слабость увеличивается на 1.</p>
+Ваш покровитель использует свое превосходное владение стихиями, давая им силу, чтобы расправиться с вашим врагом. Когда вы [[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]]{Сотворяете} это заклинание, выберите @Trait[Water]{воду}, @Trait[Air]{воздух}, @Trait[Wood]{дерево}, @Trait[Earth]{землю}, @Trait[Metal]{металл} или @Trait[Fire]{огонь}. Цель получает слабость 2 к выбранному признаку.
+
+[[Compendium.pf2e.spell-effects.Item.y4y0nusC97R7ZDL5]]
+
+---
+
+**Усиление (+2):** Слабость увеличивается на 1.

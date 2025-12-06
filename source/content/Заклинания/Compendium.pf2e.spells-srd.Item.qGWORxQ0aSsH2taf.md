@@ -5,4 +5,18 @@ title: Удушать / Suffocate
 
 - - -
 
-<p>Вы насильно жестоко вытягиваете дыхание из легких живого существа, нанося ему 4d8 дробящего урона. Существо должно совершить спасбросок Стойкости.</p><hr /><p><strong>Критический успех:</strong> Существо невредимо.</p><p><strong>Успех:</strong> Существо получает половину урона.</p><p><strong>Провал:</strong> Существо получает полный урон. В течение действия заклинания существо должно задержать дыхание или [[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.OiRwxbfLNUniLg15#tonutь-i-zadyhatьsya]]{Задыхаться}.</p><p><strong>Критический провал:</strong> Существо получает двойной урон, и весь воздух вытягивается из его легких. Существо [[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]]{Теряет сознание} и начинает [[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.OiRwxbfLNUniLg15#tonutь-i-zadyhatьsya]]{Задыхаться} в течение продолжительности заклинания.</p><hr /><p><strong>Усиление (9-й):</strong> Вы можете выбрать целями вплоть до 5 существ.</p>
+Вы насильно жестоко вытягиваете дыхание из легких живого существа, нанося ему 4d8 дробящего урона. Существо должно совершить спасбросок Стойкости.
+
+---
+
+**Критический успех:** Существо невредимо.
+
+**Успех:** Существо получает половину урона.
+
+**Провал:** Существо получает полный урон. В течение действия заклинания существо должно задержать дыхание или [[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.OiRwxbfLNUniLg15#tonutь-i-zadyhatьsya]]{Задыхаться}.
+
+**Критический провал:** Существо получает двойной урон, и весь воздух вытягивается из его легких. Существо [[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]]{Теряет сознание} и начинает [[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.OiRwxbfLNUniLg15#tonutь-i-zadyhatьsya]]{Задыхаться} в течение продолжительности заклинания.
+
+---
+
+**Усиление (9-й):** Вы можете выбрать целями вплоть до 5 существ.

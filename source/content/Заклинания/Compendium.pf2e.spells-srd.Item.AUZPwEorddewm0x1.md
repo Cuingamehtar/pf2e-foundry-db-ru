@@ -5,4 +5,18 @@ title: Крик орла / Eagle's Cry
 
 - - -
 
-<p>Вы издаете мощный крик величественного орла, пронзающий барабанные перепонки. Этот крик наносит 4d8 урона звуком. Каждое существо в области должно совершить спасбросок Стойкости.</p><hr /><p><strong>Критический успех:</strong> Существо невредимо.</p><p><strong>Успех:</strong> Существо получает половину урона и [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугано 1}.</p><p><strong>Провал:</strong> Существо получает полный урон и [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугано 2}.</p><p><strong>Критический провал:</strong> Существо получает двойной урон, [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугано 2} и [[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]]{Бежит} в течение 1 раунда.</p><hr /><p><strong>Усиление (+2):</strong> Урон увеличивается на 3d8.</p>
+Вы издаете мощный крик величественного орла, пронзающий барабанные перепонки. Этот крик наносит 4d8 урона звуком. Каждое существо в области должно совершить спасбросок Стойкости.
+
+---
+
+**Критический успех:** Существо невредимо.
+
+**Успех:** Существо получает половину урона и [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугано 1}.
+
+**Провал:** Существо получает полный урон и [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугано 2}.
+
+**Критический провал:** Существо получает двойной урон, [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугано 2} и [[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]]{Бежит} в течение 1 раунда.
+
+---
+
+**Усиление (+2):** Урон увеличивается на 3d8.

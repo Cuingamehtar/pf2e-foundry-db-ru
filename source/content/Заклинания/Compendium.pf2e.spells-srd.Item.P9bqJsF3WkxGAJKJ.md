@@ -5,4 +5,8 @@ title: Внезапное перемещение / Sudden Shift
 
 - - -
 
-<p><strong>Триггер:</strong> Враг промахивается по вам атакой ближнего боя.</p><hr /><p>Вы быстро отскакиваете от опасного места и скрываете себя. Вы [[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]]{Шагаете} и становитесь [[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]]{Скрытым}.</p>
+**Триггер:** Враг промахивается по вам атакой ближнего боя.
+
+---
+
+Вы быстро отскакиваете от опасного места и скрываете себя. Вы [[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]]{Шагаете} и становитесь [[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]]{Скрытым}.

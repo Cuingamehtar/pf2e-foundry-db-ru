@@ -5,4 +5,12 @@ title: Взболтать тело / Scramble Body
 
 - - -
 
-<p>Ваша магия приводит биологию существа в беспорядок, вызывая тошноту, лихорадку и другие неприятные состояния.</p><hr /><p><strong>Успех:</strong> Цель невредима.</p><p><strong>Провал:</strong> Цель испытывает [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошноту 1}.</p><p><strong>Критический провал:</strong> Цель испытывает [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошноту 2} и [[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]]{Замедлен 1} пока её @Condition[Sickened]{тошнит}.</p>
+Ваша магия приводит биологию существа в беспорядок, вызывая тошноту, лихорадку и другие неприятные состояния.
+
+---
+
+**Успех:** Цель невредима.
+
+**Провал:** Цель испытывает [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошноту 1}.
+
+**Критический провал:** Цель испытывает [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошноту 2} и [[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]]{Замедлен 1} пока её @Condition[Sickened]{тошнит}.

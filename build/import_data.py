@@ -3,6 +3,7 @@ import json
 import os
 import shutil
 import re
+from markdownify import markdownify
 
 def parse_json(file: str):
     with open(file, "r") as f:
@@ -52,7 +53,7 @@ if __name__ == "__main__":
             name = "\""+ name +"\""
 
         if "description" in t:
-            description = re.sub(r"@UUID\[([^\]]+)\]", r"[[\1]]", t["description"])
+            description = markdownify(re.sub(r"@UUID\[([^\]]+)\]", r"[[\1]]", t["description"]))
         else:
             description = ""
         with open("./source/content/Состояния/" + uuid + ".md", "w") as f:
@@ -80,7 +81,7 @@ if __name__ == "__main__":
             name = "\""+ name +"\""
 
         if "description" in t:
-            description = re.sub(r"@UUID\[([^\]]+)\]", r"[[\1]]", t["description"])
+            description = markdownify(re.sub(r"@UUID\[([^\]]+)\]", r"[[\1]]", t["description"]))
         else:
             description = ""
         with open("./source/content/Заклинания/" + uuid +".md", "w") as f:

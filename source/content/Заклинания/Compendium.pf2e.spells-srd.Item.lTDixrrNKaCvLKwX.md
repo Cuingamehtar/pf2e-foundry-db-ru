@@ -5,4 +5,8 @@ title: Призыв небожителя / Summon Celestial
 
 - - -
 
-<p>Вы призываете существо с признаком @Trait[Celestial]{небожитель}, чтобы сражаться за вас. Мастер может решить, что в некоторых случаях ваше божество ограничивает виды небожителей, которых вы можете призывать. Например, [[Compendium.pf2e.deities.Item.AlL9GtlTldbqNoVm]]{Калистрия} обычно не позволяет своим последователям призывать @Trait[Aeon]{эонов}.</p><hr /><p><strong>Усиление:</strong> Согласно признаку [[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.8gcp880pEWZ9VPnF]]{призыв}.</p>
+Вы призываете существо с признаком @Trait[Celestial]{небожитель}, чтобы сражаться за вас. Мастер может решить, что в некоторых случаях ваше божество ограничивает виды небожителей, которых вы можете призывать. Например, [[Compendium.pf2e.deities.Item.AlL9GtlTldbqNoVm]]{Калистрия} обычно не позволяет своим последователям призывать @Trait[Aeon]{эонов}.
+
+---
+
+**Усиление:** Согласно признаку [[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.8gcp880pEWZ9VPnF]]{призыв}.

@@ -5,4 +5,30 @@ title: Буря духов / Tempest of Shades
 
 - - -
 
-<p>Вы направляете силу нежизни, чтобы ненадолго призвать смесь мстительных мертвецов, убитых как вашими врагами, так и союзниками. Это явление появляется огромным торнадо из бесплотных, воющих лиц. Оно занимает пространство существа Огромного размера и обладает Скоростью 60 футов.</p><p><strong>Прибытие:</strong> (@Trait[Void]{пустота}) <em>Вихрь смерти:</em> Каждое вражеское существо в пределах @Template[emanation|distance:60]{60-футовой эманации} должно совершить спасбросок Стойкости со следующими эффектами.</p><hr /><p><strong>Критический успех:</strong> Существо невредимо.</p><p><strong>Успех:</strong> Существо [[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]]{Истощено 1}.</p><p><strong>Провал:</strong> Существо [[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]]{Истощено 2}.</p><p><strong>Критический провал:</strong> Существо [[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]]{Истощено 3}.</p><hr /><p><strong>Уход:</strong> (@Trait[Mental]{ментальный}, @Trait[Fear]{страх}, @Trait[Emotion]{эмоция}) <em>Завывание вечности:</em> Мстительные мертвецы издают мучительный крик. Все ваши враги в @Template[emanation|distance:100]{100-футовой эманации} должны совершить спасбросок @Check[will|against:spell]{Воли} со следующими эффектами.</p><hr /><p><strong>Критический успех:</strong> Существо невредимо.</p><p><strong>Успех:</strong> Существо [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугано 1}.</p><p><strong>Провал:</strong> Существо [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугано 3}.</p><p><strong>Критический провал:</strong> Существо [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугано 3}. Еще оно на 1 раунд впадает в [[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]]{Бегство} или пока не перестанет быть напуганным, в зависимости от того, что произойдёт раньше.</p>
+Вы направляете силу нежизни, чтобы ненадолго призвать смесь мстительных мертвецов, убитых как вашими врагами, так и союзниками. Это явление появляется огромным торнадо из бесплотных, воющих лиц. Оно занимает пространство существа Огромного размера и обладает Скоростью 60 футов.
+
+**Прибытие:** (@Trait[Void]{пустота}) *Вихрь смерти:* Каждое вражеское существо в пределах @Template[emanation|distance:60]{60-футовой эманации} должно совершить спасбросок Стойкости со следующими эффектами.
+
+---
+
+**Критический успех:** Существо невредимо.
+
+**Успех:** Существо [[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]]{Истощено 1}.
+
+**Провал:** Существо [[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]]{Истощено 2}.
+
+**Критический провал:** Существо [[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]]{Истощено 3}.
+
+---
+
+**Уход:** (@Trait[Mental]{ментальный}, @Trait[Fear]{страх}, @Trait[Emotion]{эмоция}) *Завывание вечности:* Мстительные мертвецы издают мучительный крик. Все ваши враги в @Template[emanation|distance:100]{100-футовой эманации} должны совершить спасбросок @Check[will|against:spell]{Воли} со следующими эффектами.
+
+---
+
+**Критический успех:** Существо невредимо.
+
+**Успех:** Существо [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугано 1}.
+
+**Провал:** Существо [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугано 3}.
+
+**Критический провал:** Существо [[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]]{Напугано 3}. Еще оно на 1 раунд впадает в [[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]]{Бегство} или пока не перестанет быть напуганным, в зависимости от того, что произойдёт раньше.

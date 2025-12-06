@@ -5,4 +5,8 @@ title: Стойка диких ветров / Wild Winds Stance
 
 - - -
 
-<p>Вы принимаете стойку струящихся ветров, посылая волны энергии на расстоянии. Вы можете делать безоружные [[Compendium.pf2e.actionspf2e.Item.VjxZFuUXrCU94MWR]]{Удары} "грохот ветра" как дистанционные "Удары" по целям в радиусе 30 футов. Они наносят 1d6 дробящего урона; относятся к группе "драка"; имеют признаки @Trait[Agile]{быстрое}, @Trait[Propulsive]{тяговое}, @Trait[Nonlethal]{несмертельное} и @Trait[Unarmed]{безоружное}. "Удары" грохота ветра игнорируют состояние [[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]]{Скрыт} и все [[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.z68vgV2XWhi1KYEP#ukrytie]]{Укрытия}.</p><p>Когда вы в <em>"Стойке диких ветров"</em>, то получаете бонус обстоятельства +2 к КБ против дистанционных атак.</p><p>[[Compendium.pf2e.feat-effects.Item.eeAlh6edygcZIz9c]]</p>
+Вы принимаете стойку струящихся ветров, посылая волны энергии на расстоянии. Вы можете делать безоружные [[Compendium.pf2e.actionspf2e.Item.VjxZFuUXrCU94MWR]]{Удары} "грохот ветра" как дистанционные "Удары" по целям в радиусе 30 футов. Они наносят 1d6 дробящего урона; относятся к группе "драка"; имеют признаки @Trait[Agile]{быстрое}, @Trait[Propulsive]{тяговое}, @Trait[Nonlethal]{несмертельное} и @Trait[Unarmed]{безоружное}. "Удары" грохота ветра игнорируют состояние [[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]]{Скрыт} и все [[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.z68vgV2XWhi1KYEP#ukrytie]]{Укрытия}.
+
+Когда вы в *"Стойке диких ветров"*, то получаете бонус обстоятельства +2 к КБ против дистанционных атак.
+
+[[Compendium.pf2e.feat-effects.Item.eeAlh6edygcZIz9c]]

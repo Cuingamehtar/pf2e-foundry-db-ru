@@ -5,4 +5,10 @@ title: Усиление несгибаемого железа / Untwisting Iron 
 
 - - -
 
-<p>Ваши @Trait[Unarmed]{безоружные} атаки считаются [[Compendium.pf2e.equipment-srd.Item.rEz9WYhlx2Pm0gKk]]{Холодным железом} и [[Compendium.pf2e.equipment-srd.Item.Ld8duhvwTQ5lCQmF]]{Серебром}, получают признак @Trait[Earth]{земля} и бонус состояния +1 к броскам урона за каждую кость урона.</p><p>[[Compendium.pf2e.spell-effects.Item.4ktNx3cVz5GkcGJa]]</p><hr /><p><strong>Усиление (9-й):</strong> Ваши безоружные атаки также считаются [[Compendium.pf2e.equipment-srd.Item.Zo5MZWVBKssVPEcv]]{Адамантиновыми}.</p>
+Ваши @Trait[Unarmed]{безоружные} атаки считаются [[Compendium.pf2e.equipment-srd.Item.rEz9WYhlx2Pm0gKk]]{Холодным железом} и [[Compendium.pf2e.equipment-srd.Item.Ld8duhvwTQ5lCQmF]]{Серебром}, получают признак @Trait[Earth]{земля} и бонус состояния +1 к броскам урона за каждую кость урона.
+
+[[Compendium.pf2e.spell-effects.Item.4ktNx3cVz5GkcGJa]]
+
+---
+
+**Усиление (9-й):** Ваши безоружные атаки также считаются [[Compendium.pf2e.equipment-srd.Item.Zo5MZWVBKssVPEcv]]{Адамантиновыми}.

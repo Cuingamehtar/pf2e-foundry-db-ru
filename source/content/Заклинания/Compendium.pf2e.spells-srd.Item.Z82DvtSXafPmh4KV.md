@@ -5,4 +5,45 @@ title: Ходячий ужас / Shambling Horror
 
 - - -
 
-<p>Вы оживляете труп павшего существа в виде миньона нежити под вашим контролем. Оживленное существо — скелет нежити или зомби. Выберите блок характеристик скелета или зомби того же размера, что и исходное существо, и уровня не более, чем исходный уровень существа. Ходячий ужас сохраняет Скорости, которыми обладал при жизни, а также "Удары" ближнего боя наносящие только физический урон. Эти атаки используют наибольший модификатор атаки выбранного вами скелета или зомби. Некоторые из умений скелета или зомби могут не подходить для ходячего ужаса, а некоторые умения, которыми существо обладало при жизни, могут не сохраниться в нежизни; окончательный выбор умений ходячего ужаса делает Мастер.</p><p>У ходячего ужаса есть признак @Trait[Minion]{миньон}. Вы не можете одновременно управлять более чем 1 ходячим ужасом — если вы создадите нового ходячего ужаса, пока один уже находится под вашим контролем, вы должны выбрать одного из них, чтобы отпустить, в результате чего он потеряет признак @Trait[Minion]{миньон}. Время существования отпущенных ходячих ужасов истекает, когда заканчивается продолжительность заклинания. По истечении продолжительности вы можете снова сотворить <em>ходячий ужас</em> на тот же труп, чтобы оживить его еще раз. Однако после следующего восхода солнца вы больше не сможете оживить этот труп в виде <em>ходячего ужаса</em>.</p><h2>Скелеты-нежить</h2><table class="pf2e"><thead><tr><th>Уровень</th><th>Размер</th><th>Существо</th></tr></thead><tbody><tr><td>−1</td><td>Средний</td><td>[[Compendium.pf2e.pathfinder-monster-core.Actor.trchDxbDR2TiPMxT]]</td></tr><tr><td>0</td><td>Средний</td><td>[[Compendium.pf2e.book-of-the-dead-bestiary.Actor.ToGAEKKOplpXzaQQ]]</td></tr><tr><td>1</td><td>Средний</td><td>[[Compendium.pf2e.book-of-the-dead-bestiary.Actor.dKkHFA4aBgk82QJO]]</td></tr><tr><td>2</td><td>Средний</td><td>[[Compendium.pf2e.pathfinder-monster-core.Actor.FH58AcRBZIfrHKvv]]</td></tr><tr><td>2</td><td>Большой</td><td>[[Compendium.pf2e.pathfinder-monster-core.Actor.X2vz6CrMaHIso0ha]]</td></tr><tr><td>3</td><td>Большой</td><td>[[Compendium.pf2e.pathfinder-monster-core.Actor.sEgjgitJmwYYa4mV]]</td></tr><tr><td>2</td><td>Средний</td><td>[[Compendium.pf2e.pathfinder-bestiary-3.Actor.SaNOrmVDvQGX5U1D]]</td></tr><tr><td>5</td><td>Средний</td><td>[[Compendium.pf2e.book-of-the-dead-bestiary.Actor.ipVQuGff2OeTVwFK]]</td></tr><tr><td>6</td><td>Большой</td><td>[[Compendium.pf2e.book-of-the-dead-bestiary.Actor.T9osQMcC96l4X9lk]]</td></tr><tr><td>7</td><td>Огромный</td><td>[[Compendium.pf2e.pathfinder-monster-core.Actor.V4rVnbjJbcOIdC4Z]]</td></tr><tr><td>8</td><td>Большой</td><td>[[Compendium.pf2e.book-of-the-dead-bestiary.Actor.sucEX2JFrVevTNjU]]</td></tr><tr><td>9</td><td>Исполинский</td><td>[[Compendium.pf2e.pathfinder-bestiary-3.Actor.FjZ737XIvSOSaYcA]]</td></tr><tr><td>11</td><td>Исполинский</td><td>[[Compendium.pf2e.pathfinder-bestiary-3.Actor.iiXjQ1SchGiotpVp]]</td></tr><tr><td>13</td><td>Исполинский</td><td>[[Compendium.pf2e.book-of-the-dead-bestiary.Actor.z8WJtCyoVHlcSxYy]]</td></tr></tbody></table><h2>Зомби</h2><table class="pf2e"><thead><tr><th>Уровень</th><th>Размер</th><th>Существо</th></tr></thead><tbody><tr><td>−1</td><td>Средний</td><td>[[Compendium.pf2e.pathfinder-monster-core.Actor.Xo4IGzw28hivgMmM]]</td></tr><tr><td>0</td><td>Средний</td><td>[[Compendium.pf2e.book-of-the-dead-bestiary.Actor.ZqZlji7aCGCGATMP]]</td></tr><tr><td>1</td><td>Средний</td><td>[[Compendium.pf2e.pathfinder-monster-core.Actor.aWiTcxAySoYjUP6T]]</td></tr><tr><td>2</td><td>Средний</td><td>[[Compendium.pf2e.book-of-the-dead-bestiary.Actor.qO20so7Mv2pmsLL1]]</td></tr><tr><td>2</td><td>Большой</td><td>[[Compendium.pf2e.pathfinder-monster-core.Actor.WioQ6rOeMRuTOliY]]</td></tr><tr><td>3</td><td>Большой</td><td>[[Compendium.pf2e.book-of-the-dead-bestiary.Actor.nbVljZhCnWgGxA18]]</td></tr><tr><td>4</td><td>Исполинский</td><td>[[Compendium.pf2e.pathfinder-bestiary-3.Actor.cbduxhlI7JbONLXF]]</td></tr><tr><td>4</td><td>Средний</td><td>[[Compendium.pf2e.book-of-the-dead-bestiary.Actor.8o27tdIZFp0eTs5N]]</td></tr><tr><td>5</td><td>Средний</td><td>[[Compendium.pf2e.book-of-the-dead-bestiary.Actor.z72hPIIjIiLIxnor]]</td></tr><tr><td>6</td><td>Средний</td><td>[[Compendium.pf2e.pathfinder-bestiary-3.Actor.A7TFAr1rBtKJyprn]]</td></tr><tr><td>6</td><td>Огромный</td><td>[[Compendium.pf2e.pathfinder-monster-core.Actor.EDYKUdYmilw3rgJg]]</td></tr><tr><td>6</td><td>Огромный</td><td>[[Compendium.pf2e.pathfinder-bestiary-3.Actor.GGuT6YsRH4aXhpl3]]</td></tr><tr><td>11</td><td>Огромный</td><td>[[Compendium.pf2e.book-of-the-dead-bestiary.Actor.TipfHGlT5ctn1JV0]]</td></tr></tbody></table>
+Вы оживляете труп павшего существа в виде миньона нежити под вашим контролем. Оживленное существо — скелет нежити или зомби. Выберите блок характеристик скелета или зомби того же размера, что и исходное существо, и уровня не более, чем исходный уровень существа. Ходячий ужас сохраняет Скорости, которыми обладал при жизни, а также "Удары" ближнего боя наносящие только физический урон. Эти атаки используют наибольший модификатор атаки выбранного вами скелета или зомби. Некоторые из умений скелета или зомби могут не подходить для ходячего ужаса, а некоторые умения, которыми существо обладало при жизни, могут не сохраниться в нежизни; окончательный выбор умений ходячего ужаса делает Мастер.
+
+У ходячего ужаса есть признак @Trait[Minion]{миньон}. Вы не можете одновременно управлять более чем 1 ходячим ужасом — если вы создадите нового ходячего ужаса, пока один уже находится под вашим контролем, вы должны выбрать одного из них, чтобы отпустить, в результате чего он потеряет признак @Trait[Minion]{миньон}. Время существования отпущенных ходячих ужасов истекает, когда заканчивается продолжительность заклинания. По истечении продолжительности вы можете снова сотворить *ходячий ужас* на тот же труп, чтобы оживить его еще раз. Однако после следующего восхода солнца вы больше не сможете оживить этот труп в виде *ходячего ужаса*.
+
+Скелеты-нежить
+--------------
+
+| Уровень | Размер | Существо |
+| --- | --- | --- |
+| −1 | Средний | [[Compendium.pf2e.pathfinder-monster-core.Actor.trchDxbDR2TiPMxT]] |
+| 0 | Средний | [[Compendium.pf2e.book-of-the-dead-bestiary.Actor.ToGAEKKOplpXzaQQ]] |
+| 1 | Средний | [[Compendium.pf2e.book-of-the-dead-bestiary.Actor.dKkHFA4aBgk82QJO]] |
+| 2 | Средний | [[Compendium.pf2e.pathfinder-monster-core.Actor.FH58AcRBZIfrHKvv]] |
+| 2 | Большой | [[Compendium.pf2e.pathfinder-monster-core.Actor.X2vz6CrMaHIso0ha]] |
+| 3 | Большой | [[Compendium.pf2e.pathfinder-monster-core.Actor.sEgjgitJmwYYa4mV]] |
+| 2 | Средний | [[Compendium.pf2e.pathfinder-bestiary-3.Actor.SaNOrmVDvQGX5U1D]] |
+| 5 | Средний | [[Compendium.pf2e.book-of-the-dead-bestiary.Actor.ipVQuGff2OeTVwFK]] |
+| 6 | Большой | [[Compendium.pf2e.book-of-the-dead-bestiary.Actor.T9osQMcC96l4X9lk]] |
+| 7 | Огромный | [[Compendium.pf2e.pathfinder-monster-core.Actor.V4rVnbjJbcOIdC4Z]] |
+| 8 | Большой | [[Compendium.pf2e.book-of-the-dead-bestiary.Actor.sucEX2JFrVevTNjU]] |
+| 9 | Исполинский | [[Compendium.pf2e.pathfinder-bestiary-3.Actor.FjZ737XIvSOSaYcA]] |
+| 11 | Исполинский | [[Compendium.pf2e.pathfinder-bestiary-3.Actor.iiXjQ1SchGiotpVp]] |
+| 13 | Исполинский | [[Compendium.pf2e.book-of-the-dead-bestiary.Actor.z8WJtCyoVHlcSxYy]] |
+
+Зомби
+-----
+
+| Уровень | Размер | Существо |
+| --- | --- | --- |
+| −1 | Средний | [[Compendium.pf2e.pathfinder-monster-core.Actor.Xo4IGzw28hivgMmM]] |
+| 0 | Средний | [[Compendium.pf2e.book-of-the-dead-bestiary.Actor.ZqZlji7aCGCGATMP]] |
+| 1 | Средний | [[Compendium.pf2e.pathfinder-monster-core.Actor.aWiTcxAySoYjUP6T]] |
+| 2 | Средний | [[Compendium.pf2e.book-of-the-dead-bestiary.Actor.qO20so7Mv2pmsLL1]] |
+| 2 | Большой | [[Compendium.pf2e.pathfinder-monster-core.Actor.WioQ6rOeMRuTOliY]] |
+| 3 | Большой | [[Compendium.pf2e.book-of-the-dead-bestiary.Actor.nbVljZhCnWgGxA18]] |
+| 4 | Исполинский | [[Compendium.pf2e.pathfinder-bestiary-3.Actor.cbduxhlI7JbONLXF]] |
+| 4 | Средний | [[Compendium.pf2e.book-of-the-dead-bestiary.Actor.8o27tdIZFp0eTs5N]] |
+| 5 | Средний | [[Compendium.pf2e.book-of-the-dead-bestiary.Actor.z72hPIIjIiLIxnor]] |
+| 6 | Средний | [[Compendium.pf2e.pathfinder-bestiary-3.Actor.A7TFAr1rBtKJyprn]] |
+| 6 | Огромный | [[Compendium.pf2e.pathfinder-monster-core.Actor.EDYKUdYmilw3rgJg]] |
+| 6 | Огромный | [[Compendium.pf2e.pathfinder-bestiary-3.Actor.GGuT6YsRH4aXhpl3]] |
+| 11 | Огромный | [[Compendium.pf2e.book-of-the-dead-bestiary.Actor.TipfHGlT5ctn1JV0]] |

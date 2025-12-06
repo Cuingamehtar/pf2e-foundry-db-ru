@@ -5,4 +5,24 @@ title: Гоблинская оспа / Goblin Pox
 
 - - -
 
-<p>Ваше прикосновение поражает цель гоблинской оспой — раздражающей аллергической сыпью. Цель должна совершить спасбросок Стойкости.</p><hr /><p><strong>Гоблинская оспа:</strong> (@Trait[Disease]{болезнь}): <strong>Уровень</strong> 1. Существа с признаком @Trait[Goblin]{гоблин} и гоблинские псы иммунны</p><p><strong>Стадия 1:</strong> [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошнота 1} (1 раунд)</p><p><strong>Стадия 2:</strong> [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошнота 1} и [[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]]{Замедлен 1} (1 раунд)</p><p><strong>Стадия 3:</strong> [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошнота 1} и существо не может снизить значение @Condition[Sickened]{тошноты} ниже 1 (1 день)</p><hr /><p><strong>Критический успех:</strong> Цель невредима.</p><p><strong>Успех:</strong> Цель испытывает [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошноту 1}.</p><p><strong>Провал:</strong> Цель заражается гоблинской оспой 1-й стадии.</p><p><strong>Критический провал:</strong> Цель заражается гоблинской оспой 2-й стадии.</p>
+Ваше прикосновение поражает цель гоблинской оспой — раздражающей аллергической сыпью. Цель должна совершить спасбросок Стойкости.
+
+---
+
+**Гоблинская оспа:** (@Trait[Disease]{болезнь}): **Уровень** 1. Существа с признаком @Trait[Goblin]{гоблин} и гоблинские псы иммунны
+
+**Стадия 1:** [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошнота 1} (1 раунд)
+
+**Стадия 2:** [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошнота 1} и [[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]]{Замедлен 1} (1 раунд)
+
+**Стадия 3:** [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошнота 1} и существо не может снизить значение @Condition[Sickened]{тошноты} ниже 1 (1 день)
+
+---
+
+**Критический успех:** Цель невредима.
+
+**Успех:** Цель испытывает [[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]]{Тошноту 1}.
+
+**Провал:** Цель заражается гоблинской оспой 1-й стадии.
+
+**Критический провал:** Цель заражается гоблинской оспой 2-й стадии.
