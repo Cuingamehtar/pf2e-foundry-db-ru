@@ -33,9 +33,40 @@ def clear_folder(directory_path:str):
 
 if __name__ == "__main__":
     path_zip = "F:/Foundry VTT/dev/pf2e-ru-proto/temp/json-assets.zip"
-    path_translation = "F:/Foundry VTT/dev/pf2r/data/community/pf2e/packs/pf2e.spells-srd.json"
     spells_source = open_zip(path_zip, "packs/spells.json")
-    spells_translate = parse_json(path_translation)["entries"]
+    spells_translate = parse_json("F:/Foundry VTT/dev/pf2r/data/community/pf2e/packs/pf2e.spells-srd.json")["entries"]
+
+    conditions_source = open_zip(path_zip, "packs/conditions.json")
+    conditions_translate = parse_json("F:/Foundry VTT/dev/pf2r/data/community/pf2e/packs/pf2e.conditionitems.json")["entries"]
+
+    
+    clear_folder("./source/content/Состояния")
+
+    for item in conditions_source:
+        uuid = "Compendium.pf2e.conditionitems.Item."+item["_id"]
+        t = conditions_translate[item["name"]]
+
+        name = t["name"] = t["name"].replace("(*)", "")
+        name = name + " / " + item["name"]
+        if ":" in name:
+            name = "\""+ name +"\""
+
+        if "description" in t:
+            description = re.sub(r"@UUID\[([^\]]+)\]", r"[[\1]]", t["description"])
+        else:
+            description = ""
+        with open("./source/content/Состояния/" + uuid + ".md", "w") as f:
+            f.write("---\ntitle: "+ name + "\n---\n")
+
+            f.write("**Источник:** " + item["system"]["publication"]["title"] + "\n\n")
+
+            f.write("- - -\n\n")
+
+            try:
+                f.write(t["description"])
+            except:
+                pass
+
 
     clear_folder("./source/content/Заклинания")
 
@@ -43,6 +74,7 @@ if __name__ == "__main__":
         uuid = "Compendium.pf2e.spells-srd.Item."+spell["_id"]
         t = spells_translate[spell["name"]]
         t["name"] = t["name"].replace("(*)", "")
+
         if "description" in t:
             t["description"] = re.sub(r"@UUID\[([^\]]+)\]", r"[[\1]]", t["description"])
         else:
