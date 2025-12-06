@@ -1,5 +1,5 @@
 ---
-title: Слово силы: Убить / Power Word Kill
+title: "Слово силы: Убить / Power Word Kill"
 ---
 **Источник:** Pathfinder Core Rulebook
 

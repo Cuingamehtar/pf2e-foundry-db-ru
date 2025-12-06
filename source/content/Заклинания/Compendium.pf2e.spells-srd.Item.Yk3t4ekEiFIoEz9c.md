@@ -1,5 +1,5 @@
 ---
-title: Слово силы: Слепота / Power Word Blind
+title: "Слово силы: Слепота / Power Word Blind"
 ---
 **Источник:** Pathfinder Core Rulebook
 

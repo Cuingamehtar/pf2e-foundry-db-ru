@@ -1,5 +1,5 @@
 ---
-title: Слово силы: Ошеломление / Power Word Stun
+title: "Слово силы: Ошеломление / Power Word Stun"
 ---
 **Источник:** Pathfinder Core Rulebook
 

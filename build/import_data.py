@@ -63,30 +63,34 @@ if __name__ == "__main__":
             f.write("- - -\n\n")
 
             try:
-                f.write(t["description"])
+                f.write(description)
             except:
                 pass
 
 
     clear_folder("./source/content/Заклинания")
 
-    for spell in spells_source:
-        uuid = "Compendium.pf2e.spells-srd.Item."+spell["_id"]
-        t = spells_translate[spell["name"]]
-        t["name"] = t["name"].replace("(*)", "")
+    for item in spells_source:
+        uuid = "Compendium.pf2e.spells-srd.Item."+item["_id"]
+        t = spells_translate[item["name"]]
+
+        name = t["name"] = t["name"].replace("(*)", "")
+        name = name + " / " + item["name"]
+        if ":" in name:
+            name = "\""+ name +"\""
 
         if "description" in t:
-            t["description"] = re.sub(r"@UUID\[([^\]]+)\]", r"[[\1]]", t["description"])
+            description = re.sub(r"@UUID\[([^\]]+)\]", r"[[\1]]", t["description"])
         else:
-            print(t["name"])
+            description = ""
         with open("./source/content/Заклинания/" + uuid +".md", "w") as f:
-            f.write("---\ntitle: "+ t["name"] + " / " + spell["name"] + "\n---\n")
+            f.write("---\ntitle: "+ name + "\n---\n")
 
-            f.write("**Источник:** " + spell["system"]["publication"]["title"] + "\n\n")
+            f.write("**Источник:** " + item["system"]["publication"]["title"] + "\n\n")
 
             f.write("- - -\n\n")
 
             try:
-                f.write(t["description"])
+                f.write(description)
             except:
                 pass
