@@ -9,7 +9,7 @@ title: Reactive Resilience
 
 **Триггер:** Вы получаете урон.
 
-**Требования:** You are [[Compendium.pf2e.actionspf2e.Item.Ce9vzE3XWn0u5NcL|Channeling Draconic Essence]].
+**Требования:** You are [[Действия/Channel Draconic Essence|Channeling Draconic Essence]].
 
 ---
 

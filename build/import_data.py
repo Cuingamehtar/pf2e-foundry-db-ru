@@ -5,7 +5,7 @@ import shutil
 import re
 from markdownify import markdownify
 
-from links import generate_links, generate_path
+from links import clear_effect_links, generate_links, generate_path
 
 def parse_json(file: str):
     with open(file, "r") as f:
@@ -46,6 +46,10 @@ mappings = [
         "source": "feats",
         "target": "feats-srd"
     },
+    {
+        "source": "actions",
+        "target": "actionspf2e"
+    }
 ]
 
 
@@ -63,6 +67,7 @@ if __name__ == "__main__":
     clear_folder("./source/content/Состояния")
     clear_folder("./source/content/Заклинания")
     clear_folder("./source/content/Способности")
+    clear_folder("./source/content/Действия")
 
     for m in mappings:
         source = open_zip(path_zip, f"packs/{m["source"]}.json")
@@ -84,7 +89,10 @@ if __name__ == "__main__":
                 return f"[[{link}|{label}]]" if label is not None else f"[[{link}]]"
 
             if "description" in t:
-                description = markdownify(re.sub(r"@UUID\[([^\]]+)\](?:\{([^\}]+)\})?", replace_link, t["description"]))
+                description = clear_effect_links(t["description"])
+                description = description.replace("<p></p>", "")
+                description = re.sub(r"@UUID\[([^\]]+)\](?:\{([^\}]+)\})?", replace_link, description)
+                description = markdownify(description)
             else:
                 description = ""
             with open("./source/content/" + path + ".md", "w") as f:

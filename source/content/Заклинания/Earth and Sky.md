@@ -13,6 +13,6 @@ You erupt into the air with the force of a dragon taking flight, launching nearb
 
 **Успех:** The creature is launched the same distance into the air as you, then falls.
 
-**Провал:** The creature is launched the same distance into the air as you, then falls and can't [[Compendium.pf2e.actionspf2e.Item.qm7xptMSozAinnPS|Arrest its Fall]].
+**Провал:** The creature is launched the same distance into the air as you, then falls and can't [[Действия/Остановить падение|Arrest its Fall]].
 
 **Критический провал:** As failure, but the creature takes twice as much damage from falling.

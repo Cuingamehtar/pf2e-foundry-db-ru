@@ -5,7 +5,7 @@ title: Jealous Grip
 
 - - -
 
-**Триггер:** A creature in your reach that you're aware of attempts to [[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]] you, or damage or [[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]] an item in your possession.
+**Триггер:** A creature in your reach that you're aware of attempts to [[Действия/Разоружить]] you, or damage or [[Действия/Украсть]] an item in your possession.
 
 ---
 

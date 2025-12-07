@@ -12,7 +12,8 @@ class TranslatedEntry(TypedDict):
 entry_folders = {
     "spell": "Заклинания",
     "condition": "Состояния",
-    "feat": "Способности"
+    "feat": "Способности",
+    "action": "Действия"
 }
 
 def generate_path(item: SourceEntry, translations: dict[str, TranslatedEntry]):
@@ -27,3 +28,6 @@ def generate_links(source: list[SourceEntry], translations: dict[str, Translated
         links[uuid] = generate_path(item, translations)
     return links
 
+
+def clear_effect_links(s:str):
+     return re.sub(r"@UUID\[[^\]]+effects[^\]]+\](?:\{([^\}]+)\})?", (lambda m: m.group(1) if m.group(1) is not None else ""), s)

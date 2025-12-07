@@ -5,4 +5,4 @@ title: Тем выше падать [Kingmaker]
 
 - - -
 
-Вы знаете как сделать так, чтобы крупному существу было больно, когда оно падает на землю. Если вы успешно [[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP|Опрокидываете]] врага больше вас, он получает @Damage[1d8[bludgeoning]] (или @Damage[2d8[bludgeoning]|shortLabel] при критическом успехе). Если вы являетесь мастером Атлетики, урон увеличивается до @Damage[2d8[bludgeoning]|shortLabel] (или @Damage[4d8[bludgeoning]|shortLabel] при критическом попадании).
+Вы знаете как сделать так, чтобы крупному существу было больно, когда оно падает на землю. Если вы успешно [[Действия/Опрокинуть|Опрокидываете]] врага больше вас, он получает @Damage[1d8[bludgeoning]] (или @Damage[2d8[bludgeoning]|shortLabel] при критическом успехе). Если вы являетесь мастером Атлетики, урон увеличивается до @Damage[2d8[bludgeoning]|shortLabel] (или @Damage[4d8[bludgeoning]|shortLabel] при критическом попадании).
