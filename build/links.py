@@ -18,7 +18,7 @@ entry_folders = {
 
 def generate_path(item: SourceEntry, translations: dict[str, TranslatedEntry]):
         name = translations[item["name"]]["name"] if item["name"] in translations else item["name"]
-        name = re.sub(r"\(\*\)|\?|\!|\"", "", name)
+        name = re.sub(r"\(\*\)|\?|\!|\"|\.", "", name)
         return f"{entry_folders[item["type"]]}/{name}".replace(":", "")
 
 def generate_links(source: list[SourceEntry], translations: dict[str, TranslatedEntry], pack_id:str):
