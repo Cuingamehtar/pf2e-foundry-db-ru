@@ -5,6 +5,8 @@ import shutil
 import re
 from markdownify import markdownify
 
+from links import generate_links, generate_path
+
 def parse_json(file: str):
     with open(file, "r") as f:
         data = json.load(f)
@@ -31,67 +33,69 @@ def clear_folder(directory_path:str):
         except OSError as e:
             print(f"Error removing {item_path}: {e}")
 
+mappings = [
+    {
+        "source": "spells",
+        "target": "spells-srd"
+    },
+    {
+        "source": "conditions",
+        "target": "conditionitems"
+    },
+    {
+        "source": "feats",
+        "target": "feats-srd"
+    },
+]
+
 
 if __name__ == "__main__":
     path_zip = "F:/Foundry VTT/dev/pf2e-ru-proto/temp/json-assets.zip"
-    spells_source = open_zip(path_zip, "packs/spells.json")
-    spells_translate = parse_json("F:/Foundry VTT/dev/pf2r/data/community/pf2e/packs/pf2e.spells-srd.json")["entries"]
 
-    conditions_source = open_zip(path_zip, "packs/conditions.json")
-    conditions_translate = parse_json("F:/Foundry VTT/dev/pf2r/data/community/pf2e/packs/pf2e.conditionitems.json")["entries"]
+    links: dict[str,str] = {}
 
+    for m in mappings:
+        source = open_zip(path_zip, f"packs/{m["source"]}.json")
+        translations = parse_json(f"F:/Foundry VTT/dev/pf2r/data/community/pf2e/packs/pf2e.{m["target"]}.json")["entries"]
+
+        links = links | generate_links(source, translations, m["target"])
     
     clear_folder("./source/content/Состояния")
-
-    for item in conditions_source:
-        uuid = "Compendium.pf2e.conditionitems.Item."+item["_id"]
-        t = conditions_translate[item["name"]]
-
-        name = t["name"] = t["name"].replace("(*)", "")
-        name = name + " / " + item["name"]
-        if ":" in name:
-            name = "\""+ name +"\""
-
-        if "description" in t:
-            description = markdownify(re.sub(r"@UUID\[([^\]]+)\]", r"[[\1]]", t["description"]))
-        else:
-            description = ""
-        with open("./source/content/Состояния/" + uuid + ".md", "w") as f:
-            f.write("---\ntitle: "+ name + "\n---\n")
-
-            f.write("**Источник:** " + item["system"]["publication"]["title"] + "\n\n")
-
-            f.write("- - -\n\n")
-
-            try:
-                f.write(description)
-            except:
-                pass
-
-
     clear_folder("./source/content/Заклинания")
+    clear_folder("./source/content/Способности")
 
-    for item in spells_source:
-        uuid = "Compendium.pf2e.spells-srd.Item."+item["_id"]
-        t = spells_translate[item["name"]]
+    for m in mappings:
+        source = open_zip(path_zip, f"packs/{m["source"]}.json")
+        translations = parse_json(f"F:/Foundry VTT/dev/pf2r/data/community/pf2e/packs/pf2e.{m["target"]}.json")["entries"]
 
-        name = t["name"] = t["name"].replace("(*)", "")
-        name = name + " / " + item["name"]
-        if ":" in name:
-            name = "\""+ name +"\""
+        for item in source:
+            path = generate_path(item, translations)
+            t = translations[item["name"]]
 
-        if "description" in t:
-            description = markdownify(re.sub(r"@UUID\[([^\]]+)\]", r"[[\1]]", t["description"]))
-        else:
-            description = ""
-        with open("./source/content/Заклинания/" + uuid +".md", "w") as f:
-            f.write("---\ntitle: "+ name + "\n---\n")
+            name = t["name"] = t["name"].replace("(*)", "")
+            name = name # + " / " + item["name"]
+            if ":" in name:
+                name = "\""+ name +"\""
 
-            f.write("**Источник:** " + item["system"]["publication"]["title"] + "\n\n")
+            def replace_link(match:re.Match[str]):
+                groups = match.groups()
+                link = links[groups[0]] if groups[0] in links else groups[0]
+                label = groups[1]
+                return f"[[{link}|{label}]]" if label is not None else f"[[{link}]]"
 
-            f.write("- - -\n\n")
+            if "description" in t:
+                description = markdownify(re.sub(r"@UUID\[([^\]]+)\](?:\{([^\}]+)\})?", replace_link, t["description"]))
+            else:
+                description = ""
+            with open("./source/content/" + path + ".md", "w") as f:
+                f.write("---\ntitle: "+ name + "\n---\n")
 
-            try:
-                f.write(description)
-            except:
-                pass
+                f.write("**Источник:** " + item["system"]["publication"]["title"] + "\n\n")
+
+                f.write("- - -\n\n")
+
+                try:
+                    f.write(description)
+                except:
+                    pass
+
